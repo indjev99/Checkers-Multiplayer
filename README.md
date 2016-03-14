@@ -9,3 +9,5 @@ A game in progress:
 The game displays the rules at the beginning. To chose a rule enter its number. To continue enter 0.
 
 ![rules](https://cloud.githubusercontent.com/assets/12662877/13579690/7d0d89fa-e4a7-11e5-881f-10dd141dea96.png)
+
+This project uses the graphics.h library.
